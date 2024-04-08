@@ -1,0 +1,1 @@
+setTimeout 함수의 시간 정확도 테스트를 위해 Web worker 활용하여 테스트 진행하기 위한 코드
