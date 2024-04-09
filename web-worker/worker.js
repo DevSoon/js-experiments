@@ -6,3 +6,5 @@ self.onmessage = function (event) {
         self.postMessage({ id: id, time: executionTime });
     }, delay);
 };
+
+Promise.allSettled

@@ -1,0 +1,1 @@
+promise all과 allsettled 이해하기 위해 동작 방식과 유사하게 코드 작성해보기
